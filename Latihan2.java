@@ -10,8 +10,8 @@ public class Latihan2 {
             }
             System.out.println();
         }
-        for (int i = 1; i <= 6; i++) { // baris
-            for (int j = 1; j <= 6; j++) { // kolom
+        for (int i = 1; i <= 6; i++) {
+            for (int j = 1; j <= 6; j++) {
                 if (j <= i) {
                     System.out.print("X ");
                 } else {
@@ -22,3 +22,4 @@ public class Latihan2 {
         }
     }
 }
+
